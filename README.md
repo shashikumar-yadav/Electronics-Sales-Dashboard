@@ -23,4 +23,4 @@ It provides a clear view of how individual salespeople contribute to overall per
 
 # Screenshot / Demo
 
-![Sales Dashboard]()
+![Sales Dashboard](https://github.com/shashikumar-yadav/Electronics-Sales-Dashboard/blob/main/Sales_Analysis_Dashboard.png)
