@@ -24,3 +24,8 @@ It provides a clear view of how individual salespeople contribute to overall per
 # Screenshot / Demo
 
 ![Sales Dashboard](https://github.com/shashikumar-yadav/Electronics-Sales-Dashboard/blob/main/Sales_Analysis_Dashboard.png)
+
+# 🧠 Author
+- Shashikumar Yadav
+- IT Consultant & MSc Data Science Student
+- Specializing in Power BI, Python, SQL, ServiceNow 
