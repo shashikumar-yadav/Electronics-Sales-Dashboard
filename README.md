@@ -21,7 +21,7 @@ It provides a clear view of how individual salespeople contribute to overall per
 - Supported data-driven decision making by identifying high-performing regions and product categories.
 - Improved reporting efficiency by replacing manual spreadsheets with an automated, interactive dashboard.
 
-# Screenshot / Demo
+# Screenshot
 
 ![Sales Dashboard](https://github.com/shashikumar-yadav/Electronics-Sales-Dashboard/blob/main/Sales_Analysis_Dashboard.png)
 
