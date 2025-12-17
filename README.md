@@ -23,7 +23,7 @@ It provides a clear view of how individual salespeople contribute to overall per
 
 # Screenshot
 
-![Sales Dashboard](https://github.com/shashikumar-yadav/Electronics-Sales-Dashboard/blob/main/Sales_Analysis_Dashboard.png)
+![Sales Dashboard](https://github.com/shashikumar-yadav/Electronics-Sales-Dashboard/blob/main/Electronic_Sales_Dashboard.png)
 
 # 🧠 Author
 - Shashikumar Yadav
